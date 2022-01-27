@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rukartik
+- 👋 Hi, I’m @Kartik Navagire
 - 👀 I’m interested in software testing
 - 🌱 I’m currently learning automation 
 - 💞️ I’m looking to collaborate on selenium
